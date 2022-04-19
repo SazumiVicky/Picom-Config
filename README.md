@@ -29,6 +29,5 @@ round-borders-rule = [
 	"2:class_g ?= 'Alacritty'",
 	"0:class_g ?= 'firefox'"
 ];
-```conf
-
+```
 <a href="https://cdn.jsdelivr.net/gh/SazumiVicky/Picom-Config-@main/picom.conf">View More</a>
