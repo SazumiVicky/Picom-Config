@@ -30,3 +30,4 @@ round-borders-rule = [
 	"0:class_g ?= 'firefox'"
 ];
 ```conf
+<a href="https://cdn.jsdelivr.net/gh/SazumiVicky/Picom-Config-@main/picom.conf">View More</a>
